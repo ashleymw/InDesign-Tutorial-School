@@ -1,0 +1,302 @@
+
+/* bin\Configuration/Inspectors/jquery_accordion.htm */
+
+
+#topLayer.cls_topLayerDiv
+{
+	left: 115px;
+	top:0px;
+	width:800px;
+	height:100px;
+}
+#aboveLineDiv.cls_aboveLineDiv
+{
+	position:absolute;
+	width:800px;
+	top:0px;
+	height:50px;
+}
+#belowLineDiv.cls_belowLineDiv
+{
+	position:absolute;
+	width:800px;
+	top:55px;
+	height:50%;
+}
+#idBoxLayer.cls_imageDiv 
+{
+	position:absolute;
+	width:65px;
+	height:38px;
+	z-index:1;
+	left:45px;
+	top:3px
+}
+#piTitle.cls_piTitle
+{
+	position:absolute;
+	left:10px;
+	width:107px;
+	height:47px;
+	border-right: solid 1px #AAAAAA;
+}
+#piTitleInner.cls_piTitleInner
+{
+	position:absolute;
+	top:10px;
+}
+#piElementId.cls_piElementId
+{
+	position:absolute;
+	left:0px;
+	width:105px;
+	top: 0px; 
+	height:94%;
+	border-right: solid 1px #AAAAAA;
+}
+#panelEditingMain.cls_panelListDiv {
+	position:absolute;
+	left:152px;
+	width: 142px;
+	height:94%;
+	border-right: solid 1px #AAAAAA;
+}
+#collapsibleDiv.cls_collapsibleDiv
+ {
+	position:absolute;
+	left:300px;
+	width:87px;
+	height: 47px;
+	border-right: solid 1px #AAAAAA;
+}
+#eventDiv.cls_eventDiv
+ {
+	position:absolute;
+	left:390px;
+	width:158px;
+	height: 47px;
+	border-right: solid 1px #AAAAAA;
+}
+#heightStyleDiv.cls_heightStyleDiv
+ {
+	position:absolute;
+	left:550px;
+	height: 47px;
+	width:150px;
+}
+#disableDiv.cls_disableDiv
+{
+	position: absolute;
+	left: 7px;
+	width: 160px;
+	height: 43px;
+	border-right: solid 1px #AAAAAA;
+}
+#animateDiv.cls_animateDiv
+{
+	position: absolute;
+	left: 170px;
+	width: 228px;
+	height: 43px;
+	border-right: solid 1px #AAAAAA;
+}
+#iconsDiv.cls_iconsDiv
+{
+	position: absolute;
+	left: 398px;
+	width: 350px;
+}
+#message.cls_messageDiv {
+	position:absolute;
+	left:40%;
+	top: 15px;
+	width:60%;
+	padding-left:1.5em;
+}
+#eventList {
+	width: 100px; 
+}
+.shortTI
+{
+	width:50px
+}
+.upDown
+{
+	position:absolute;
+	left:55%;
+}
+.vRule
+{
+	position:absolute;
+	left:85%;
+	top:-5px;
+	height:100px;
+}
+.cls_idText
+{
+	position: absolute;
+	left: 10px;
+	top: 3px;
+	width: 100px;
+}
+.cls_idInput
+{
+	position: absolute;
+	left: 27px;
+	top: 3px;
+	width: 100px;
+}
+.cls_panelText {
+	position:absolute;
+	width: 15%;
+	left: 117px;
+	top: 5px;
+	padding-right:1.5em;
+}
+.cls_panelList{ 
+	position:absolute;
+	width:100px; 
+	left:0px;
+	top:3px;
+}
+.cls_addButton
+{
+	position: absolute;
+	left: 103px;
+	bottom: 0px;
+}
+.cls_removeButton
+{
+	position: absolute;
+	left: 117px;
+	bottom: 0px;
+}
+.cls_upButton
+{
+	position: absolute;
+	left: 103px;
+	top: 3px;
+}
+.cls_downButton
+{
+	position: absolute;
+	left: 117px;
+	top: 3px;
+}
+.cls_collapsibleCheck
+{
+	position: absolute;
+	left: 75px;
+	top: 3px;
+}
+.cls_collapsibleText
+{
+	position: absolute;
+	left: 93px;
+	top: 3px;
+}
+.cls_activeText
+{
+	position: absolute;
+	left: 3px;
+	top: 3px;
+}
+.cls_activeInput
+{
+	position: absolute;
+	left: 42px;
+	top: 3px;
+	width: 30px;
+}
+.cls_eventText
+{
+	position: absolute;
+	left: 8px;
+	top: 3px;
+}
+.cls_eventSelect
+{
+	position: absolute;
+	left: 45px;
+	top: 3px;
+}
+.cls_heightStyleText
+{
+	position: absolute;
+	left: 8px;
+	top: 3px;
+	width: 100px;
+}
+.cls_heightStyleSelect
+{
+	position: absolute;
+	left: 72px;
+	top: 3px;
+}
+
+.cls_disabledCheck
+{
+	position: absolute;
+	left: 3px;
+	top: 2px;
+}
+.cls_disableText
+{
+	position: absolute;
+	left: 22px;
+	top: 2px;
+}
+.cls_animateText
+{
+	position: absolute;
+	left: 7px;
+	top: 2px;
+}
+.cls_animateSelect
+{
+	position: absolute;
+	left: 57px;
+	top: 2px;
+	width: 100px;
+}
+.cls_animateInput
+{
+	position: absolute;
+	left: 162px;
+	top: 2px;
+	width: 50px;
+}
+.cls_iconsText
+{
+	position:absolute;
+	top:2px;
+	left:10px;
+	width: 50px;
+}
+.cls_headerText
+{
+	position:absolute;
+	top:2px;
+	left:79px;
+}
+.cls_activeHeaderText
+{
+	position:absolute;
+	top:24px;
+	left:49px;
+	width: 100px;
+}
+.cls_headerSelect
+{
+	position:absolute;
+	top:2px;
+	left:124px;
+	width: 120px;
+}
+.cls_activeHeaderSelect
+{
+	position:absolute;
+	top:24px;
+	left:124px;
+	width: 120px;
+}
